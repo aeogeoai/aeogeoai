@@ -1,7 +1,7 @@
 Here it is:
 AEOGeoAI — Free AI Brand Visibility Checker
 
-aeogeoai.net — Check how any brand appears across ChatGPT, Claude, and Gemini simultaneously.
+[aeogeoai.net](https://aeogeoai.net/) — Check how any brand appears across ChatGPT, Claude, and Gemini simultaneously.
 What it does
 
 AEOGeoAI tests whether AI systems recommend a brand when potential customers ask category-related questions. It returns a 0–100 AI Visibility Score per model, showing where a brand is visible, emerging, or invisible across AI search ecosystems.
