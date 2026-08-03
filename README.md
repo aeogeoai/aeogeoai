@@ -1,68 +1,85 @@
-Here it is:
-AEOGeoAI — Free AI Brand Visibility Checker
+Research-backed AI Search Optimization.
 
-[aeogeoai.net](https://aeogeoai.net/) — Check how any brand appears across ChatGPT, Claude, and Gemini simultaneously.
-What it does
+AEOGeoAI helps businesses become the companies AI systems recommend when customers ask ChatGPT, Google AI Mode, Gemini and Claude who they should choose.
 
-AEOGeoAI tests whether AI systems recommend a brand when potential customers ask category-related questions. It returns a 0–100 AI Visibility Score per model, showing where a brand is visible, emerging, or invisible across AI search ecosystems.
+The open-source profile exists to document the research and methodology behind our work. Our free AI Brand Visibility Checker lets businesses measure where they stand before deciding whether they need optimization.
 
-The goal is not to determine whether an AI model has heard of your brand. The goal is to determine whether it recommends your brand when potential customers ask category-related questions.
-Key features
+What We Do
 
-    Free AI visibility check — 3 checks per day, no account required
-    Multi-model scoring — Claude (Anthropic), Gemini (Google), ChatGPT (OpenAI) tested simultaneously
-    AI Visibility Score — 0–100 per model
-    Free AI Diagnosis email — biggest finding + one action, sent immediately
-    Pro plan — 100 checks/month, full AI Visibility Reports, scan history, CSV export — $9.99/month
+Traditional SEO helps websites rank.
 
-Vocabulary
+AI Search Optimization helps businesses become the answers AI systems recommend.
 
-AI Brand Visibility (ABV) — The degree to which a brand is mentioned, recommended, and accurately described by AI systems. Unlike SEO metrics that measure website rankings, AI Brand Visibility measures whether AI systems actually recommend your brand.
+Our work focuses on building the independent third-party evidence AI systems rely on when generating recommendations.
 
-AI Visibility Score / ABV Score — The core KPI. 0–100 per model.
+Our research currently focuses on:
 
-    0–39: Invisible
-    40–69: Emerging
-    70–89: Visible
-    90–100: Dominant
+AI Search Optimization (ASO)
+Answer Engine Optimization (AEO)
+Generative Engine Optimization (GEO)
+AI Brand Visibility
+Entity formation
+AI citation behaviour
+Local AI search
+Free AI Brand Visibility Checker
 
-AI Visibility Gap — The numerical difference between a brand's AI Visibility Score and a competitor's score.
+The free checker measures whether AI systems recommend your business for buyer-intent searches.
 
-Evidence Gap — The difference between what AI knows about a brand and what it knows about its competitors. Evidence Gap is the cause. AI Visibility Gap is the measurement.
+Instead of asking whether an AI has heard of your brand, it asks:
 
-Evidence Problem — The condition where AI has insufficient evidence to recommend a brand confidently.
+Would AI recommend your business when a customer asks who they should choose?
 
-AI Recommendation Formula — Citation Coverage × Category Clarity × Review Presence × Third-Party Authority × Evidence Consistency = AI Recommendation Probability
+The tool returns:
 
-AI Entity Formation — The process by which AI systems form a definition of a brand, sometimes within days of launch.
-Methodology
+AI Visibility Score (0–100)
+ChatGPT score
+Claude score
+Gemini score
+Visibility classification
+Immediate AI diagnosis
 
-The tool constructs buyer discovery questions from the entered keyword — questions a real potential customer would ask an AI. The brand name is never included in those questions. This simulates discovery-stage searches, not direct brand lookups.
+Free users receive three searches per day.
 
-Full methodology: https://aeogeoai.net/methodology.html
-Scoring signals
-Signal	Points
-Brand appears anywhere in the response	+35
-Exact brand name or domain match	+15
-Brand mentioned two or more times	+25
-Brand appears in first 30% of response	+10
-Brand mentioned three or more times	+10
-Domain extension present and exact match	+10
-Brand followed by a colon (recommendation format)	+15
+Our AI Search Optimization Service
 
-Scores capped at 100.
-Stack
+For businesses with low visibility scores, we provide a research-led AI Search Optimization service.
 
-    Cloudflare Workers + Pages + D1 + KV
-    Models: claude-haiku-4-5 (Anthropic), gemini-2.5-flash-lite (Google), gpt-4o-mini (OpenAI)
-    Routed via Cloudflare AI Gateway
-    Email via Resend
+Our methodology combines:
 
-Links
+AI visibility research
+Entity optimization
+Independent editorial coverage
+Third-party authority building
+Multi-model testing
+Ongoing visibility measurement
 
-    Live tool: https://aeogeoai.net
-    Methodology: https://aeogeoai.net/methodology.html
-    Start here: https://aeogeoai.net/start-here.html
-    Blog: https://aeogeoai.net/blog.html
-    YouTube: https://www.youtube.com/@aeogeoai
-    Contact: members@aeogeoai.net
+Rather than attempting to manipulate AI models directly, we build the evidence ecosystem that allows AI systems to recommend businesses with greater confidence.
+
+Research
+
+Our methodology is based on original testing across hundreds of businesses, examining how ChatGPT, Claude, Gemini, Google AI Mode and other AI systems select businesses for recommendation.
+
+Areas of research include:
+
+AI recommendation frequency
+Entity recognition
+Citation behaviour
+Evidence gaps
+Local AI visibility
+AI recommendation signals
+Technology
+Cloudflare Workers
+Cloudflare Pages
+Cloudflare D1
+Cloudflare KV
+Cloudflare AI Gateway
+Anthropic Claude
+Google Gemini
+OpenAI GPT
+
+Learn More
+Website — https://aeogeoai.net
+AI Search Optimization — https://aeogeoai.net/services.html
+Research — https://aeogeoai.net/research.html
+Methodology — https://aeogeoai.net/methodology.html
+Free AI Brand Visibility Checker Can Be Found On — https://aeogeoai.net
